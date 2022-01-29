@@ -1,12 +1,7 @@
 Hi, my name is Brad.
-My background is finance, with a double degree in Business & Commerce from the University of Newcastle.
-As part of my previous job I would build various tools with excel and wondered if I could also make web applications.
+My background is finance, with a double degree in Business & Commerce from the University of Newcastle. I was interested in investing from a young age and was able to turn this enthusiasm into a successful career. My previous role as a Technical Advisor saw me take on significant responsbilities including running our advice documentation team and chair the businesses investment committee.
 
-I started completing an online web development bootcamp before work each morning and became hooked. 
-After trying to fit learning development around work and time with my family I have decided I want to pursue this as a career.
+I like learning new things and that's what drew me to web development. I was curious how websites were made and thought I could potentially replicate some financial tools I made via spreadsheets in the past. I started taking some online courses before work and soon I was hooked. After a while of trying to juggle my existing job, family and development on the side I decided to take the leap and change careers.
 
-I have largely focused on learning frontend languages, becoming more familiar with HTML, CSS & Javascript. 
-I am currently trying to become more comfortable making fully functional apps using Node.js/express & MongoDB.
-
-My currently plan is to complete a tertiary qualification in computer science while I continue to grow my development skills.
+I'm now in the process of building up my professional developer portfolio to showcase my skills. I have started pursuing additional tertiary education, recently completed a Graduate Certificate of Computer Science from Monash University scoring a High Distinction in each unit.
 
