@@ -1,4 +1,4 @@
-# Welcome to the github of Brad Meyn
+# Welcome to my github
 
 ## Background
 
@@ -20,4 +20,10 @@ Learning how to code was something I'd write on a yearly goals list as I thought
 ## Changing Careers
 
 After sometime I decided to take the leap and change careers to become a software developer. My plan has been to understake further tertiary study whilst also  completing additional online courses to learn new technology and build up my personal portfolio. 
+
+## Software Skills
+
+I have mainly utilised frontend & javascript based languages such as Node.js. I also have some experience using Java & MySQL via university. My specific skills and techniques used can be found on the various pinned repositories for different projects.
+
+My current goal is to focus on improving my React skills to make more advanced full stack applications, potentially including the use of Next.js. I would also like to mobile development either with Swift or React Native.
 
