@@ -1,7 +1,23 @@
-Hi, my name is Brad.
-My background is finance, with a double degree in Business & Commerce from the University of Newcastle. I was interested in investing from a young age and was able to turn this enthusiasm into a successful career. My previous role as a Technical Advisor saw me take on significant responsbilities including running our advice documentation team and chair the businesses investment committee.
+# Welcome to the github of Brad Meyn
 
-I like learning new things and that's what drew me to web development. I was curious how websites were made and thought I could potentially replicate some financial tools I made via spreadsheets in the past. I started taking some online courses before work and soon I was hooked. After a while of trying to juggle my existing job, family and development on the side I decided to take the leap and change careers.
+## Background
 
-I'm now in the process of building up my professional developer portfolio to showcase my skills. I have started pursuing additional tertiary education, recently completed a Graduate Certificate of Computer Science from Monash University scoring a High Distinction in each unit.
+My background is actually  personal finance & investment management. I was interested in investing from a relatively young age which ultimatly put me on the path of helping others with their personal finances. 
+
+## Qualifications
+
+- Double Bachelors of Business & Commerce "with distinction". Triple major in finance, accounting & management.
+- Advanced Diploma of Financial Services
+- Graduate Certificate of Computer Science
+
+### In Progress
+- Masters of Computer Science (Software Engineering)
+
+## How I got into coding
+
+Learning how to code was something I'd write on a yearly goals list as I thought I might be able to utilise it with my current job. I started taking some online courses before work every morning and really enjoyed it. I like learning new things & this is constant with development. There is also a satisfying feedback loop where you learn something new and then get to see it in action live on the web (or at least on localhost).
+
+## Changing Careers
+
+After sometime I decided to take the leap and change careers to become a software developer. My plan has been to understake further tertiary study whilst also  completing additional online courses to learn new technology and build up my personal portfolio. 
 
