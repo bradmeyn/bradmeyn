@@ -19,7 +19,7 @@ My background is actually  personal finance & investment management. I was inter
 
 ## Changing Careers
 
-After sometime I decided to take the leap and change careers to become a software developer. My plan has been to understake further tertiary study whilst also  completing additional online courses to learn new technology and build up my personal portfolio. 
+After sometime I decided to take the leap and change careers to become a software developer. My plan has been to undertake further tertiary study whilst also  completing additional online courses to learn new technology and build up my personal portfolio. 
 
 ## Software Skills
 
