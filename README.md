@@ -15,7 +15,7 @@ My background is actually  personal finance & investment management. I was inter
 
 ## How I got into coding
 
-"Learn to code" was something I would put each year on my new years resolutions. I thought I might be able to utilise it with my current job, replicating some of the financial tools I'd built for work. I started taking some online courses before work every morning and really enjoyed it. I like learning new things & this is constant with development. There is also a satisfying feedback loop where you learn something new and then get to see it in action live on the web (or at least on localhost).
+"Learn to code" was something I would put each year on my new years resolutions. I had been curious how websites were made and I thought it might be possible to make some interactive tools for work. I started taking some online courses before work every morning and really enjoyed it. I like learning new things and this is constant with development. There is also a satisfying feedback loop where you learn something new and then get to see it in action live on the web (or at least on localhost).
 
 ## Changing Careers
 
