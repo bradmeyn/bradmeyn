@@ -23,7 +23,18 @@ After sometime I decided to take the leap and change careers to become a softwar
 
 ## Software Skills
 
-I have mainly utilised frontend & javascript based languages such as Node.js. I also have some experience using Java & MySQL via university. My specific skills and techniques used can be found on the various pinned repositories for different projects.
+I have mainly utilised frontend & javascript based languages such as Node.js. I also have some experience using Java & MySQL via university. Some of the technology I have used includes:
 
-My current goal is to focus on improving my React skills to make more advanced full stack applications, potentially including the use of Next.js. I would also like to mobile development either with Swift or React Native.
+- HTML
+- CSS & SASS
+- Boostrap
+- Javascript
+- Node.js w/ Express
+- MongoDb w/ Mongoose
+- EJS
+- MySQL
+- Java
+- React
+
+My current goal is to focus on improving my React skills to make more advanced full stack applications, potentially including the use of Next.js to build static sites. I would also like to explore mobile development either with Swift or React Native.
 
