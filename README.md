@@ -2,7 +2,7 @@
 
 ## Summary
 
-I'm a fullstack software developer from Newcastle Australia. I predominatly build applications using Javascript and React.
+I'm a fullstack software developer from Newcastle, Australia. I predominatly build applications using Javascript and React.
 
 ## Qualifications
 
