@@ -1,8 +1,8 @@
 # Welcome to my github
 
-## Background
+## Summary
 
-My background is actually  personal finance & investment management. I was interested in investing from a relatively young age which ultimatly put me on the path of helping others with their personal finances. 
+I'm a fullstack software developer from Newcastle Australia. I predominatly build applications using Javascript and React.
 
 ## Qualifications
 
@@ -23,18 +23,15 @@ After sometime I decided to take the leap and change careers to become a softwar
 
 ## Software Skills
 
-I have mainly utilised frontend & javascript based languages such as Node.js. I also have some experience using Java & MySQL via university. Some of the technology I have used includes:
+I have used a wide variety of concepts and languages to build great looking websites and full stack applications. My skills include
 
-- HTML
-- CSS & SASS
-- Boostrap
-- Javascript
-- Node.js w/ Express
-- MongoDb w/ Mongoose
-- EJS
-- MySQL
-- Java
-- React
+- Building custom frontends with HTML, CSS/Sass & Javascript
+- Quickly create application UI's with Boostrap & Tailwind
+- Constructing backends & REST api's with Node.js & Express
+- Implementing persistant data via MongoDb w/ Mongoose
+- Using React & template engines like EJS to display dynamic data to the client
 
-My current goal is to focus on improving my React skills to make more advanced full stack applications, potentially including the use of Next.js to build static sites. I would also like to explore mobile development either with Swift or React Native.
+My current goal is to focus on improving my React skills and make more advanced full stack applications, most likely incorporating the use of Next.js and Typescript. 
+
+I would also like to explore mobile development either with Swift or React Native.
 
