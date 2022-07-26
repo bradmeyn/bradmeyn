@@ -2,7 +2,9 @@
 
 ## Summary
 
-I'm a fullstack software developer from Newcastle, Australia. I predominatly build applications using Javascript and React.
+Hi, my name is Brad and I'm a software developer from Newcastle, Australia. On this repository you will find all my code from personal projects, tutorials & university assignments. 
+
+Featured projects can be found on my personal site: https://www.bradmeyn.com
 
 ## Qualifications
 
@@ -13,25 +15,29 @@ I'm a fullstack software developer from Newcastle, Australia. I predominatly bui
 ### In Progress
 - Masters of Computer Science (Software Engineering)
 
-## How I got into coding
-
-"Learn to code" was something I would put each year on my new years resolutions. I had been curious how websites were made and I thought it might be possible to make some interactive tools for work. I started taking some online courses before work every morning and really enjoyed it. I like learning new things and this is constant with development. There is also a satisfying feedback loop where you learn something new and then get to see it in action live on the web (or at least on localhost).
-
-## Changing Careers
-
-After sometime I decided to take the leap and change careers to become a software developer. My plan has been to undertake further tertiary study whilst also  completing additional online courses to learn new technology and build up my personal portfolio. 
-
 ## Software Skills
 
-I have used a wide variety of concepts and languages to build great looking websites and full stack applications. My skills include
+I have used a wide variety of concepts and languages to build great looking websites and full stack applications.
 
-- Building custom frontends with HTML, CSS/Sass & Javascript
-- Quickly create application UI's with Boostrap & Tailwind
-- Constructing backends & REST api's with Node.js & Express
-- Implementing persistant data via MongoDb w/ Mongoose
+### Languages
+
+- HTML, CSS/SASS & Javascript
+- Node w/Express & NPM
+- MongoDB w/Mongoose
+- React
+- Java
+- MySQL
+- Git
+
+### Concepts
+- Building mobile-first responsive websites/applications
+- Quickly creating application UI's with Boostrap & Tailwind
+- Constructing REST api's with Node.js & Express
 - Using React & template engines like EJS to display dynamic data to the client
+- Authenticating users with Passport.js & Bcrypt
+- Deploying applications with Heroku
 
 My current goal is to focus on improving my React skills and make more advanced full stack applications, most likely incorporating the use of Next.js and Typescript. 
 
-I would also like to explore mobile development either with Swift or React Native.
+I would also like to explore mobile development either with Swift or React Native in the future.
 
