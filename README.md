@@ -22,22 +22,10 @@ I have used a wide variety of concepts and languages to build great looking webs
 ### Languages
 
 - HTML, CSS/SASS & Javascript
-- Node w/Express & NPM
+- React w/ Redux
+- Node w/Express
 - MongoDB w/Mongoose
-- React
-- Java
-- MySQL
-- Git
+- Python w/ Django
+- Boostrap & Tailwind
 
-### Concepts
-- Building mobile-first responsive websites/applications
-- Quickly creating application UI's with Boostrap & Tailwind
-- Constructing REST api's with Node.js & Express
-- Using React & template engines like EJS to display dynamic data to the client
-- Authenticating users with Passport.js & Bcrypt
-- Deploying applications with Heroku
-
-My current goal is to focus on improving my React skills and make more advanced full stack applications, most likely incorporating the use of Next.js and Typescript. 
-
-I would also like to explore mobile development either with Swift or React Native in the future.
 
