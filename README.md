@@ -15,17 +15,33 @@ Featured projects can be found on my personal site: https://www.bradmeyn.com
 ### In Progress
 - Masters of Computer Science (Software Engineering)
 
-## Software Skills
+## Software Related Skills
 
-I have used a wide variety of concepts and languages to build great looking websites and full stack applications.
+Across work, university and personal projects I have experience with the following:
 
 ### Languages
+- Typescript
+- Python
+- Java (no thanks)
+- Kotlin 
 
-- HTML, CSS/SASS & Javascript
-- React w/ Redux
+### Frontend
+- React w/ Redux, React Router, Formik, React Hook Forms
+- CSS w/SASS & BEM notation
+- SSR templating w/Django & Express
+- UI libraries such as Bootstrap, Tailwind, Chakra & Mantine
+
+### Backend
 - Node w/Express
-- MongoDB w/Mongoose
-- Python w/ Django
-- Boostrap & Tailwind
+- Django w/ Python
 
+### Databases & Related Tools
+- MongoDB w/Mongoose
+- Postgrel w/Django ORM & Prisma
+- MySQL
+
+### Workflow Tools
+- GitHub
+- Bitbucket w/Source Tree
+- Docker
 
