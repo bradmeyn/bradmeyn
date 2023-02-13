@@ -10,7 +10,6 @@ Featured projects can be found on my personal site: https://www.bradmeyn.com
 
 - Double Bachelors of Business & Commerce "with distinction". Triple major in finance, accounting & management.
 - Advanced Diploma of Financial Services
-- Graduate Certificate of Computer Science
 
 ### In Progress
 - Masters of Computer Science (Software Engineering)
@@ -22,26 +21,26 @@ Across work, university and personal projects I have experience with the followi
 ### Languages
 - Typescript
 - Python
-- Java (no thanks)
+- Java
 - Kotlin 
 
 ### Frontend
-- React w/ Redux, React Router, Formik, React Hook Forms
-- CSS w/SASS & BEM notation
+- React & Next.js
+- CSS w/SASS & BEM syntax
 - SSR templating w/Django & Express
 - UI libraries such as Bootstrap, Tailwind, Chakra & Mantine
 
 ### Backend
 - Node w/Express
-- Django w/ Python
+- Django
 
 ### Databases & Related Tools
-- MongoDB w/Mongoose
-- Postgrel w/Django ORM & Prisma
+- MongoDB w/Mongoose ORM
+- PostgreSQL w/Django & Prisma ORMs
 - MySQL
 
 ### Workflow Tools
 - GitHub
-- Bitbucket w/Source Tree
+- Bitbucket w/Sourcetree
 - Docker
 
