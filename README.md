@@ -2,13 +2,15 @@
 
 ## Summary
 
-Hi, my name is Brad and I'm a software developer from Newcastle, Australia. On this repository, you will find all my code from personal projects, tutorials & university assignments. 
+A software developer from Newcastle, Australia. 
+
+On this repository, you will find all my code from personal projects, tutorials & university assignments. 
 
 Featured projects can be found on my personal site: https://www.bradmeyn.com
 
 ## Qualifications
-- Master of Computer Science (Software Engineering)
-- Double Bachelors of Business & Commerce "with distinction". Triple major in finance, accounting & management.
+- Master of Computer Science
+- Double Bachelor of Business & Commerce
 - Advanced Diploma of Financial Services
 
 ### Frontend
