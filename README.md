@@ -2,7 +2,7 @@
 
 ## Summary
 
-Hi, I'm Brad a software developer from Newcastle, Australia.
+Hi, I'm Brad, a software developer from Newcastle, Australia.
 
 On this repository, you will find all my code from personal projects, tutorials & university assignments. 
 
