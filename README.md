@@ -1,4 +1,4 @@
-# Welcome to my github
+# Welcome to my GitHub
 
 ## Summary
 
@@ -34,6 +34,6 @@ Featured projects can be found on my personal site: https://www.bradmeyn.com
 - MySQL
 
 ### Workflow Tools
-- GitHub
+- GitHub w
 - Bitbucket w/Sourcetree
 - Docker
